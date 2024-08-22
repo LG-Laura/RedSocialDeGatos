@@ -4,7 +4,7 @@
 
 # 🐱 RedSocialDeGatos
 
-**RedSocialDeGatos** es una red social diseñada exclusivamente para gatos y sus dueños. La aplicación permitira compartir información sobre gatos perdidos, poner gatos en adopción, brindar consejos, y mucho más. El proyecto está desarrollado con una arquitectura moderna, utilizando .NET Core en el backend y Angular en el frontend, con MySQL como base de datos y autenticación JWT.
+**RedSocialDeGatos** es una red social diseñada exclusivamente para gatos y sus dueños. La aplicación permitira compartir información sobre gatos perdidos, poner gatos en adopción, brindar consejos, y mucho más. El proyecto está desarrollado con una arquitectura moderna, utilizando .NET Core en el backend y podra conectar con el frontend a futuro.
 
 ## 📋 Características
 

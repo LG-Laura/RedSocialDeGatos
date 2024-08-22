@@ -1,7 +1,8 @@
-<p align="center">
-  🚧<br>
-  <strong>En Desarrollo:</strong> Este proyecto está actualmente en fase de desarrollo.
+<p align="center" style="font-size: 24px;">
+  <strong>🚧En Desarrollo:</strong><br>
+  Este proyecto está actualmente en fase de desarrollo.
 </p>
+
 # 🐱 RedSocialDeGatos
 
 **RedSocialDeGatos** es una red social diseñada exclusivamente para gatos y sus dueños. La aplicación permitira compartir información sobre gatos perdidos, poner gatos en adopción, brindar consejos, y mucho más. El proyecto está desarrollado con una arquitectura moderna, utilizando .NET Core en el backend y Angular en el frontend, con MySQL como base de datos y autenticación JWT.

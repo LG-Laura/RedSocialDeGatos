@@ -1,6 +1,5 @@
 <p align="center" style="font-size: 24px;">
-  <strong>🚧En Desarrollo:</strong><br>
-  Este proyecto está actualmente en fase de desarrollo.
+  <strong>🚧Este proyecto está actualmente en fase de desarrollo.</strong><br>
 </p>
 
 # 🐱 RedSocialDeGatos
